@@ -2,6 +2,8 @@
 This is a ssh based port forwarding tool.
 
 # Installation
+sudo apt install openssh 
+
 sudo apt install git -y
 
 git clone https://github.com/cyberytti/My_port
