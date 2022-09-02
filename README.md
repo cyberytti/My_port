@@ -10,7 +10,7 @@ git clone https://github.com/cyberytti/My_port
 
 cd My_port
 
-chmod +x My_port 
+chmod +x pf.sh
 
 ./My_port 
 
