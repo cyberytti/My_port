@@ -12,7 +12,7 @@ cd My_port
 
 chmod +x pf.sh
 
-./My_port 
+./pf.sh
 
 # support 
 
